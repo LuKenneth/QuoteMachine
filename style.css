@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+
+h1 {
+  font-size: 100px;
+  font-family: "Dancing Script";
+}
+
+button {
+  background-color: brown;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+body {
+  background-color: #feffe0;
+  color: brown;
+}
+
+.quote-box {
+  font-size: 75px;
+  font-family: "Dancing Script";
+}
